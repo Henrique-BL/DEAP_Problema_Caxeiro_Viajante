@@ -1,0 +1,440 @@
+------Solução cxPartialyMatched # mutShuffleIndexes # selTournament-------
+------Solução 1-------
+gen = 200
+nevals = 100
+max = 13906.0
+min = 11320.0
+med = 11370.21
+std = 303.1092969540855
+------Solução 2-------
+gen = 200
+nevals = 100
+max = 15954.0
+min = 12587.0
+med = 12655.17
+std = 390.2837955898247
+------Solução 3-------
+gen = 200
+nevals = 100
+max = 15744.0
+min = 11917.0
+med = 12098.53
+std = 697.8115426818333
+------Solução 4-------
+gen = 200
+nevals = 100
+max = 17274.0
+min = 11202.0
+med = 11443.55
+std = 768.1832252138806
+------Solução 5-------
+gen = 200
+nevals = 100
+max = 16075.0
+min = 11082.0
+med = 11212.41
+std = 622.5091500532343
+------Solução 6-------
+gen = 200
+nevals = 100
+max = 17271.0
+min = 12708.0
+med = 12986.72
+std = 629.3413712763527
+------Solução 7-------
+gen = 200
+nevals = 100
+max = 18057.0
+min = 12939.0
+med = 13244.96
+std = 725.5650476697455
+------Solução 8-------
+gen = 200
+nevals = 100
+max = 16732.0
+min = 11253.0
+med = 11535.39
+std = 872.7841989289221
+------Solução 9-------
+gen = 200
+nevals = 100
+max = 15431.0
+min = 12519.0
+med = 12620.09
+std = 451.73355188650754
+------Solução 10-------
+gen = 200
+nevals = 100
+max = 14750.0
+min = 11590.0
+med = 11631.53
+std = 321.4052101320077
+
+ Menor Caminho = 11082.0 Maior Caminho  = 12939.0
+------Solução cxUniformPartialyMatched # mutShuffleIndexes # selTournament-------
+------Solução 1-------
+gen = 200
+nevals = 100
+max = 16682.0
+min = 11843.0
+med = 12066.4
+std = 858.950301239833
+------Solução 2-------
+gen = 200
+nevals = 100
+max = 14300.0
+min = 12859.0
+med = 12878.51
+std = 151.6086076052412
+------Solução 3-------
+gen = 200
+nevals = 100
+max = 15610.0
+min = 11699.0
+med = 11920.56
+std = 734.8832603890224
+------Solução 4-------
+gen = 200
+nevals = 100
+max = 14704.0
+min = 11489.0
+med = 11743.3
+std = 592.1498712319374
+------Solução 5-------
+gen = 200
+nevals = 100
+max = 14362.0
+min = 10950.0
+med = 11072.77
+std = 492.5095502627334
+------Solução 6-------
+gen = 200
+nevals = 100
+max = 14636.0
+min = 11112.0
+med = 11263.12
+std = 597.5186069069314
+------Solução 7-------
+gen = 200
+nevals = 100
+max = 14725.0
+min = 11352.0
+med = 11590.47
+std = 528.6050407440323
+------Solução 8-------
+gen = 200
+nevals = 100
+max = 13502.0
+min = 10971.0
+med = 11147.99
+std = 305.41989113350166
+------Solução 9-------
+gen = 200
+nevals = 100
+max = 14129.0
+min = 12137.0
+med = 12234.07
+std = 341.1906579905141
+------Solução 10-------
+gen = 200
+nevals = 100
+max = 18154.0
+min = 10857.0
+med = 11055.19
+std = 808.4847270666279
+
+ Menor Caminho = 10857.0 Maior Caminho  = 12859.0
+------Solução cxOrdered # mutShuffleIndexes # selTournament-------
+------Solução 1-------
+gen = 200
+nevals = 100
+max = 15681.0
+min = 9858.0
+med = 11438.68
+std = 977.2969342016786
+------Solução 2-------
+gen = 200
+nevals = 100
+max = 16085.0
+min = 10941.0
+med = 12992.07
+std = 1183.366074002462
+------Solução 3-------
+gen = 200
+nevals = 100
+max = 18390.0
+min = 12638.0
+med = 14764.24
+std = 1129.9769919781554
+------Solução 4-------
+gen = 200
+nevals = 100
+max = 16148.0
+min = 10684.0
+med = 12320.96
+std = 1054.8594780348708
+------Solução 5-------
+gen = 200
+nevals = 100
+max = 18404.0
+min = 11427.0
+med = 13114.04
+std = 1231.569079832715
+------Solução 6-------
+gen = 200
+nevals = 100
+max = 17468.0
+min = 12175.0
+med = 13538.12
+std = 1030.7527858803003
+------Solução 7-------
+gen = 200
+nevals = 100
+max = 19957.0
+min = 12177.0
+med = 14343.84
+std = 1244.238793158291
+------Solução 8-------
+gen = 200
+nevals = 100
+max = 18007.0
+min = 11406.0
+med = 13468.62
+std = 1099.8558430994492
+------Solução 9-------
+gen = 200
+nevals = 100
+max = 19703.0
+min = 15035.0
+med = 17225.48
+std = 964.6009794728596
+------Solução 10-------
+gen = 200
+nevals = 100
+max = 19573.0
+min = 12018.0
+med = 14142.13
+std = 1228.8157197480832
+
+ Menor Caminho = 9858.0 Maior Caminho  = 15035.0
+------Solução cxPartialyMatched # mutShuffleIndexes # selRoulette-------
+------Solução 1-------
+gen = 200
+nevals = 100
+max = 33990.0
+min = 25471.0
+med = 29929.51
+std = 1746.0221790973903
+------Solução 2-------
+gen = 200
+nevals = 100
+max = 33288.0
+min = 26540.0
+med = 30183.4
+std = 1584.1332204079301
+------Solução 3-------
+gen = 200
+nevals = 100
+max = 33518.0
+min = 25809.0
+med = 29909.26
+std = 1722.8156640801706
+------Solução 4-------
+gen = 200
+nevals = 100
+max = 33477.0
+min = 24317.0
+med = 30096.72
+std = 1630.2611329477252
+------Solução 5-------
+gen = 200
+nevals = 100
+max = 33328.0
+min = 25634.0
+med = 29879.08
+std = 1544.135289927667
+------Solução 6-------
+gen = 200
+nevals = 100
+max = 33540.0
+min = 26240.0
+med = 30026.43
+std = 1601.5949628729481
+------Solução 7-------
+gen = 200
+nevals = 100
+max = 32942.0
+min = 25050.0
+med = 29778.81
+std = 1666.0770732172027
+------Solução 8-------
+gen = 200
+nevals = 100
+max = 33089.0
+min = 25935.0
+med = 30001.68
+std = 1470.5597769557007
+------Solução 9-------
+gen = 200
+nevals = 100
+max = 33532.0
+min = 26055.0
+med = 29841.5
+std = 1443.268488535657
+------Solução 10-------
+gen = 200
+nevals = 100
+max = 33064.0
+min = 25593.0
+med = 30161.91
+std = 1489.5910451865639
+
+ Menor Caminho = 24317.0 Maior Caminho  = 26540.0
+------Solução cxUniformPartialyMatched # mutShuffleIndexes # selRoulette-------
+
+------Solução cxUniformPartialyMatched # mutShuffleIndexes # selRoulette-------
+------Solução 1-------
+gen = 200
+nevals = 100
+max = 33847.0
+min = 26810.0
+med = 30519.26
+std = 1587.507616485666
+------Solução 2-------
+gen = 200
+nevals = 100
+max = 33614.0
+min = 26137.0
+med = 30092.44
+std = 1559.8809398156002
+------Solução 3-------
+gen = 200
+nevals = 100
+max = 32685.0
+min = 25950.0
+med = 30173.29
+std = 1521.5362256285584
+------Solução 4-------
+gen = 200
+nevals = 100
+max = 33396.0
+min = 26108.0
+med = 29723.22
+std = 1537.19431810035
+------Solução 5-------
+gen = 200
+nevals = 100
+max = 32160.0
+min = 24991.0
+med = 29647.83
+std = 1608.0531337925374
+------Solução 6-------
+gen = 200
+nevals = 100
+max = 32934.0
+min = 26074.0
+med = 30208.53
+std = 1428.4009202951388
+------Solução 7-------
+gen = 200
+nevals = 100
+max = 33773.0
+min = 24771.0
+med = 29883.0
+std = 1646.1004647347622
+------Solução 8-------
+gen = 200
+nevals = 100
+max = 35043.0
+min = 26243.0
+med = 30007.17
+std = 1575.9998544098917
+------Solução 9-------
+gen = 200
+nevals = 100
+max = 33297.0
+min = 25774.0
+med = 29981.14
+std = 1335.0470480099193
+------Solução 10-------
+gen = 200
+nevals = 100
+max = 33486.0
+min = 25876.0
+med = 29973.74
+std = 1395.0297532310917
+
+ Menor Caminho = 24771.0 Maior Caminho  = 26810.0
+------Solução cxOrdered # mutShuffleIndexes # selRoulette-------
+------Solução 1-------
+gen = 200
+nevals = 100
+max = 33703.0
+min = 26061.0
+med = 30238.77
+std = 1548.8470735033848
+------Solução 2-------
+gen = 200
+nevals = 100
+max = 33089.0
+min = 26010.0
+med = 30281.07
+std = 1400.0929915902016
+------Solução 3-------
+gen = 200
+nevals = 100
+max = 32863.0
+min = 25618.0
+med = 30075.21
+std = 1612.2805171247342
+------Solução 4-------
+gen = 200
+nevals = 100
+max = 32982.0
+min = 26640.0
+med = 29883.32
+std = 1352.806622396564
+------Solução 5-------
+gen = 200
+nevals = 100
+max = 33464.0
+min = 24531.0
+med = 29932.78
+std = 1508.6328949084996
+------Solução 6-------
+gen = 200
+nevals = 100
+max = 33156.0
+min = 26701.0
+med = 30570.7
+std = 1401.0941188942306
+------Solução 7-------
+gen = 200
+nevals = 100
+max = 34764.0
+min = 27669.0
+med = 30787.78
+std = 1382.9340951759052
+------Solução 8-------
+gen = 200
+nevals = 100
+max = 33761.0
+min = 27835.0
+med = 30989.8
+std = 1302.273711629011
+------Solução 9-------
+gen = 200
+nevals = 100
+max = 33390.0
+min = 25400.0
+med = 29783.69
+std = 1594.8021112037695
+------Solução 10-------
+gen = 200
+nevals = 100
+max = 33009.0
+min = 25198.0
+med = 29803.6
+std = 1591.7237260278555
+
+ Menor Caminho = 24531.0 Maior Caminho  = 27835.0
